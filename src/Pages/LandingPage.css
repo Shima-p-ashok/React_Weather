@@ -1,0 +1,8 @@
+#bg{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/020/599/177/small_2x/white-clouds-bright-blue-sky-background-for-wallpaper-clean-sky-on-mid-day-relaxation-concept-landscape-abstract-background-vector.jpg');
+    width: 100%;
+    height: 570px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

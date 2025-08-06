@@ -1,0 +1,8 @@
+*{
+    font-family: "Lora", serif;
+   
+}
+ /* background-image: url('https://nordicapis.com/wp-content/uploads/How-to-Build-an-API-Driven-Weather-App.png'); */
+.bg{
+    background-color:rgb(32, 126, 126);
+}
