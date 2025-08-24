@@ -11,7 +11,7 @@ function HeadFile() {
   return (
     <div>
       <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static" sx={{backgroundColor:'rgb(32, 126, 126)'}}>
+      <AppBar position="static" sx={{backgroundColor:'oklch(37.9% 0.146 265.522)'}}>
         <Toolbar>
           <IconButton
             size="large"
