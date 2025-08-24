@@ -13,9 +13,9 @@ function Footer() {
     >
       <h4>Connect with us</h4>
       <div className="d-flex justify-content-center align-items-center">
-        <IoLogoWhatsapp className="fs-4 me-3" />
-        <FaSquareInstagram className="fs-4 me-3" />
-        <FaFacebook className="fs-4 me-3" />
+        <a href="https://web.whatsapp.com/"><IoLogoWhatsapp className="fs-4 me-3" /></a>
+        <a href="https://www.instagram.com/"><FaSquareInstagram className="fs-4 me-3" /></a>
+       <a href="https://www.facebook.com/"> <FaFacebook className="fs-4 me-3" /></a>
       </div>
     </div>
   );

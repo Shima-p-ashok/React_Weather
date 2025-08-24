@@ -25,7 +25,7 @@ function HeadFile() {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             SkyStatus
           </Typography>
-          <Button color="inherit">Login</Button>
+          
         </Toolbar>
       </AppBar>
     </Box>
